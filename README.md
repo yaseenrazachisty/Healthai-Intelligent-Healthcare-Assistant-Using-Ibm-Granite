@@ -1,1 +1,0 @@
-# Healthai-Intelligent-Healthcare-Assistant-Using-Ibm-Granite
